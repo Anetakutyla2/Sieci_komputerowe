@@ -1,9 +1,3 @@
 # Sieci_komputerowe
-Aneta Kutyła 4g
-echo "# Sieci_komputerowe" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Anetakutyla2/Sieci_komputerowe.git
-git push -u origin main
+Wygrałeś 1000zł! GRATULACJE ABY JE WYGRAĆ WYŚLIJ NA KONTO 30ZŁ PROWIZJI Z ANGLI
+NUMER KONTA 67102042870000270201624675
